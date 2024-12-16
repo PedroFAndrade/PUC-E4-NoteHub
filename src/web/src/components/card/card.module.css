@@ -1,0 +1,61 @@
+.container {
+    width: 100%;
+    height: auto;
+    padding: 4%;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    align-items: center;
+    margin-bottom: 5%;
+}
+
+.container:hover {
+    background-color: #FFA31A;
+    cursor: pointer;
+}
+
+.container img {
+   position: absolute;
+   right: 0;
+   margin-right: 5%;
+}
+
+.container img:hover {
+    filter: invert(1);
+ }
+
+.container h4 {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 100;
+}
+
+
+.container .inputEditable:focus {
+    outline: none;
+    border-radius: 0;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    padding-bottom: 0;
+    padding-left: 0;
+    background: transparent;
+    font-size: 1rem;
+    color: white;
+    font-family: sans-serif;
+    font-weight:normal;
+}
+
+.container .inputNotEditable, .inputEditable {
+    padding-left: 0;
+    pointer-events: none;
+    outline: none;
+    border: none;
+    background: transparent;
+    font-size: 1rem;
+    color: white;
+    font-family: sans-serif;
+    font-weight:normal;
+}

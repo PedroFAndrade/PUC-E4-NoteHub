@@ -1,0 +1,35 @@
+.body {
+    background-color: #1B1B1B;
+    width: 100vw;
+    height: 6vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.logo {
+    width: auto;
+    height: 80%;
+}
+
+.person {
+    width: auto;
+    height: 55%;
+    right: 0;
+    margin-right: 2%;
+    bottom: 20%;
+    position: absolute;
+    cursor: pointer;
+}
+
+.save {
+    width: auto;
+    height: 55%;
+    right: 0;
+    margin-right: 5%;
+    bottom: 20%;
+    position: absolute;
+    cursor: pointer;
+    display: none;
+}

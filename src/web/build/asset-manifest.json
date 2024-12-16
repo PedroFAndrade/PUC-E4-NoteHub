@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d014cc07.css",
+    "main.js": "./static/js/main.d0ea7c09.js",
+    "static/js/453.c5eaf93b.chunk.js": "./static/js/453.c5eaf93b.chunk.js",
+    "static/media/login-cadastro image.png": "./static/media/login-cadastro image.73970f9aac29caf5608a.png",
+    "static/media/noteHubPreta.png": "./static/media/noteHubPreta.ff1d2bc1361337e1b99b.png",
+    "static/media/noteHub.png": "./static/media/noteHub.408626b676742501d4c2.png",
+    "index.html": "./index.html",
+    "static/media/plus.svg": "./static/media/plus.3c5028aa7146e47ce92ffa68321be425.svg",
+    "static/media/save.svg": "./static/media/save.c4e9c30d7ee3fbd1b41097389407dfd4.svg",
+    "static/media/delete.svg": "./static/media/delete.5bfaca79cb0cea931db86a25db7daeda.svg",
+    "static/media/edit.svg": "./static/media/edit.f24e3329c5a45efcf0a5dd168f934dbc.svg",
+    "main.d014cc07.css.map": "./static/css/main.d014cc07.css.map",
+    "main.d0ea7c09.js.map": "./static/js/main.d0ea7c09.js.map",
+    "453.c5eaf93b.chunk.js.map": "./static/js/453.c5eaf93b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d014cc07.css",
+    "static/js/main.d0ea7c09.js"
+  ]
+}

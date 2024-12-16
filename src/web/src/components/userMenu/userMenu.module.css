@@ -1,0 +1,45 @@
+.userButton {
+    font-size: 1.2rem; 
+    cursor: 'pointer';
+    color: white;
+    position: absolute;
+    top: 1.4%;
+    right: 2%;
+    display: flex;
+    background-color: #1B1B1B;
+}
+
+.menuContainer {
+    position: absolute;
+    top: 40px;
+    right: 40px;
+    display: flex;
+    padding: 1px;
+    border-radius: 10px;
+    flex-direction: column;
+    background-color: #1B1B1B;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.menuButton {
+    background-color: #1B1B1B;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.menuButton:hover {
+    background-color: #FFA31A;
+}
+
+.head {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-top: 10px;
+    padding: 8px;
+    cursor: pointer;
+}
